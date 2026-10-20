@@ -14,6 +14,8 @@
 
 **AI Engineer • Full-Stack Developer • SaaS Builder • UI/UX Designer • Automation Specialist**
 
+🧠 *The IT Mastermind behind the technology.*
+
 </div>
 
 ## 💫 About Me
