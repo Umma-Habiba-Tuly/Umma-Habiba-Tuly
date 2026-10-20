@@ -171,6 +171,6 @@
 
 <br/><br/>
 
-<img src="./footer.svg" alt="Original 8-bit pixel-art night skyline with rain" width="100%" />
+<img src="./footer2.svg" alt="Pixel-art dusk skyline with string lights. Thanks for visiting!" width="100%" />
 
 </div>
