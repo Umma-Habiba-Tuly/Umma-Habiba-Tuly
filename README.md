@@ -189,12 +189,6 @@ Scrapes leads, enriches the data, scores prospects with AI and syncs them to the
   <img src="https://streak-stats.demolab.com?user=Umma-Habiba-Tuly&theme=tokyonight" alt="GitHub streak" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Umma-Habiba-Tuly&bg_color=0D1117&color=70A5FD&line=BF91F3&point=E6EDF3&area=true&area_color=2F81F7&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Umma-Habiba-Tuly&bg_color=FFFFFF&color=0969DA&line=8250DF&point=1F2328&area=true&area_color=0969DA&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umma-Habiba-Tuly&bg_color=0D1117&color=70A5FD&line=BF91F3&point=E6EDF3&area=true&area_color=2F81F7&hide_border=true" alt="Contribution activity graph" width="100%" />
-</picture>
-
 </div>
 
 ---
