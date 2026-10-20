@@ -12,7 +12,7 @@
 
 ---
 
-## Hello 👋 I'm Umma Habiba Tuly
+<img src="./h-hello.svg" alt="Hello, I'm Umma Habiba Tuly" />
 
 **AI Engineer • Full-Stack Developer • SaaS Builder • UI/UX Designer • Automation Specialist**
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## 💫 About Me
+<img src="./h-about.svg" alt="About Me" />
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=%3C%2F%3E%20Profile%20Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
 
@@ -46,7 +46,7 @@
 
 <div align="right">
 
-### 🌟 Follow Me on:
+<img src="./h-follow.svg" alt="Follow Me on" />
 
 <a href="https://www.instagram.com/tuly.cse/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.pinterest.com/Ummehabibatuly010/"><img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-## 🧰 Languages & Tools I Have Placed My Hands On
+<img src="./h-tools.svg" alt="Languages and tools I have placed my hands on" />
 
 <img src="./stack-grid7.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator, React" width="667" />
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-## ⚡ 📊 GitHub Stats
+<img src="./h-stats.svg" alt="GitHub Stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umma-Habiba-Tuly&theme=tokyonight">
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-## 💻 Tech Stack:
+<img src="./h-tech.svg" alt="Tech Stack" />
 
 <img height="22" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-## ⭐ Featured Project &nbsp;&nbsp;&nbsp;&nbsp; 💪 Quote of the Day
+<img src="./h-featured.svg" alt="Featured Project and Quote of the Day" />
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
   <img src="./featured9.svg" width="100%" alt="Featured project tuly-portfolio, and a quote by Gottfried Wilhelm Leibniz" />
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-## 🤝 Let's Work Together
+<img src="./h-work.svg" alt="Let's Work Together" />
 
 **Need an AI agent, a RAG knowledge base or a workflow that runs while you sleep?**
 
