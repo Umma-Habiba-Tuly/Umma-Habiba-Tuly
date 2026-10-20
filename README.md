@@ -57,9 +57,7 @@
 
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bootstrap,fastapi,nextjs,docker,postgres,wordpress,figma,xd,ps,ai,vscode&perline=8" alt="Languages and tools" />
-<br/>
-<img src="./tools-ai4.svg" alt="Automation and AI tools: n8n, Make, Airtable, HubSpot, Notion, Slack, Discord, GitHub, Gemini, LangChain, Supabase" width="442" />
+<img src="./stack-grid.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, Gemini, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
 
 </div>
 
