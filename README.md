@@ -2,7 +2,7 @@
 
 <img src="./cover-rooftop.jpg" alt="Pixel-art rooftop at dusk with a city skyline, steel beams, vines and a glowing laptop. Banner art courtesy of Joshua Thadi." width="100%" />
 
-<sub><i>Banner art courtesy of Joshua Thadi, used with permission.</i></sub>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
