@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Umma Habiba Tuly, CSE Engineer. Terminal-style profile banner with an ASCII portrait, system info, stack and selected projects." width="100%">
-</picture>
+<img src="./cover.svg" alt="Original 8-bit pixel art: a night city outside a window, a desk with a lamp, a laptop running code and a steaming mug. Umma Habiba Tuly, CSE Engineer." width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=30&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%91%8B+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Workflow+Automation">
@@ -24,7 +20,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 🌟 &nbsp;**CSE Engineer** building production AI agents, RAG knowledge bases and workflow automations for real businesses.
 
@@ -43,9 +39,9 @@
 📍 &nbsp;Khulna, Bangladesh.
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="38%" valign="middle" align="center">
 
-<img src="./workspace.svg" alt="Illustration of a laptop running code, connected to nodes labelled LLM, RAG, n8n and API." width="100%" />
+<img src="./coder.svg" alt="Original pixel-art illustration of a person in a beige hijab and headphones coding at a laptop." width="100%" />
 
 </td>
 </tr>
@@ -188,6 +184,6 @@ Scrapes, enriches, AI-scores and syncs leads to the CRM.
 
 <a href="https://linkedin.com/in/umma-habiba-tuly-cse"><img src="https://img.shields.io/badge/DM%20TO%20AUTOMATE%20%E2%86%92-FFDD00?style=for-the-badge" alt="DM to automate" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8250DF&height=110&section=footer" alt="" width="100%" />
+<img src="./footer.svg" alt="Original 8-bit pixel-art night skyline with rain" width="100%" />
 
 </div>
