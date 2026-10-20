@@ -56,9 +56,9 @@
 
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bootstrap,fastapi,nextjs,docker,postgres,wordpress,figma,xd,ps,ai,git&perline=8" alt="Languages and tools" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bootstrap,fastapi,nextjs,docker,postgres,wordpress,figma,xd,ps,ai,vscode&perline=8" alt="Languages and tools" />
 <br/>
-<img src="./tools.svg" alt="Automation and AI tools: n8n, Zapier, Make, Airtable, Google Sheets, Drive, Gmail, Slack, OpenAI, Anthropic, Gemini, LangChain, LlamaIndex, Qdrant, Pinecone, MCP, OpenRouter, SerpAPI, WhatsApp, Messenger, Meta, HubSpot, Telegram, Google Maps" width="442" />
+<img src="./tools.svg" alt="Automation and AI tools: n8n, Claude, OpenAI, Gemini, LangChain, Zapier, Make, Airtable, WhatsApp, Messenger, HubSpot, Google Sheets, Google Drive, Gmail, Telegram, Google Maps" width="442" />
 
 </div>
 
