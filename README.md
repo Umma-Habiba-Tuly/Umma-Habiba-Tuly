@@ -18,38 +18,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 🌟 &nbsp;**CSE Engineer** building production AI agents, RAG knowledge bases and workflow automations for real businesses.
 
-🚀 &nbsp;Shipped **Wear Inspired**, a live multi-channel AI support system with **75%+ Tier-1 auto-resolution** and **under 2.1s response latency**.
+<img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="400" />
+
+<br/>
+
+🚀 &nbsp;Shipped **Wear Inspired**, a live multi-channel AI support system with **75%+ Tier-1 auto-resolution** and **under 2.1s latency**.
 
 🏨 &nbsp;Currently building a **Hotel AI Receptionist** for round-the-clock guest inquiries and bookings.
 
-🎨 &nbsp;Background in **UI/UX design and full-stack development**, so I build systems that are as usable as they are smart.
+🎨 &nbsp;Background in **UI/UX design and full-stack development**.
 
-🎓 &nbsp;BSc in Computer Science and Engineering, North Western University (CGPA 3.70 / 4.00).
+🎓 &nbsp;BSc in **Computer Science and Engineering**, North Western University (CGPA 3.70 / 4.00).
 
-🧪 &nbsp;Thesis: exam stress detection in university students using activity data and machine learning.
+🧪 &nbsp;Thesis: exam stress detection using activity data and machine learning.
 
 💬 &nbsp;Ask me about **AI agents, RAG, n8n workflows, FastAPI and LangChain**.
 
 📍 &nbsp;Khulna, Bangladesh.
 
-</td>
-<td width="38%" valign="middle" align="center">
-
-<img src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="100%" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <div align="right">
 
-### 🌟 Follow Me on
+### 🌟 Follow Me on:
 
 <a href="https://tuly.atsync.tech"><img src="https://img.shields.io/badge/PORTFOLIO-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/umma-habiba-tuly-cse"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
