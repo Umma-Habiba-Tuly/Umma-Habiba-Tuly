@@ -147,7 +147,7 @@
 ## ⭐ Featured Project &nbsp;&nbsp;&nbsp;&nbsp; 💪 Quote of the Day
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
-  <img src="./featured6.svg" width="100%" alt="Featured project tuly-portfolio, and a quote by Gottfried Wilhelm Leibniz" />
+  <img src="./featured7.svg" width="100%" alt="Featured project tuly-portfolio, and a quote by Gottfried Wilhelm Leibniz" />
 </a>
 
 </div>
