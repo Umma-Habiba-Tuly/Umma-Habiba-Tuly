@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-city.svg" alt="Original 8-bit pixel art of a rainy night city with a tall tower and a neon AI sign. Umma Habiba Tuly, CSE Engineer." width="100%" />
+<img src="./banner-room.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=30&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Workflow+Automation">
