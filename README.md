@@ -164,6 +164,6 @@
 
 <br/><br/>
 
-<img src="./footer2.svg" alt="Pixel-art dusk skyline with string lights. Thanks for visiting!" width="100%" />
+<img src="./footer3.svg" alt="Pixel-art dusk skyline with string lights. Thanks for visiting!" width="100%" />
 
 </div>
