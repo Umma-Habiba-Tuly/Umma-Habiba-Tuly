@@ -24,7 +24,7 @@
 
 🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.
 
-<img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
+<img align="right" src="./about-sleepy.svg" alt="Cute illustration of a girl with a dark brown hair bun resting her head on a laptop with one hand raised, next to a coffee mug. One more bug!" width="40%" />
 
 <br/>
 
