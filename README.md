@@ -24,7 +24,7 @@
 
 🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.
 
-<img align="right" src="./about-sleepy2.svg" alt="Cute illustration of a girl with a dark brown hair bun resting her head on a laptop with one hand raised, next to a coffee mug, with floating AI and n8n chips. Dream. Code. Deploy!" width="40%" />
+<img align="right" src="./about-sleepy3.svg" alt="Cute illustration of a girl with a dark brown hair bun resting her head on a laptop with one hand raised, next to a coffee mug, with floating AI and n8n chips. One more bug!" width="40%" />
 
 <br/>
 
