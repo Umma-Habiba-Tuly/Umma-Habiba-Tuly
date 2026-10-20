@@ -123,13 +123,13 @@
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" alt="tuly-portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" align="middle" alt="tuly-portfolio" />
 </picture>
 </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="36%" alt="Random developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="36%" align="middle" alt="Random developer quote" />
 </picture>
 
 </div>
