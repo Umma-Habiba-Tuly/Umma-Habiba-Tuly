@@ -76,23 +76,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umma-Habiba-Tuly&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umma-Habiba-Tuly&theme=tokyonight" width="29.6%" alt="GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umma-Habiba-Tuly&theme=tokyonight" width="33.3%" alt="GitHub profile details" />
 </picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umma-Habiba-Tuly&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umma-Habiba-Tuly&theme=tokyonight" width="17.3%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umma-Habiba-Tuly&theme=tokyonight" width="16.2%" alt="GitHub stats" />
 </picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umma-Habiba-Tuly&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umma-Habiba-Tuly&theme=tokyonight" width="17.3%" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umma-Habiba-Tuly&theme=tokyonight" width="16.2%" alt="Top languages by repo" />
 </picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umma-Habiba-Tuly&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umma-Habiba-Tuly&theme=tokyonight" width="17.3%" alt="Top languages by commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umma-Habiba-Tuly&theme=tokyonight" width="16.2%" alt="Top languages by commit" />
 </picture><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Umma-Habiba-Tuly&theme=github">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Umma-Habiba-Tuly&theme=tokyonight" width="17.3%" alt="Commits by time of day" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Umma-Habiba-Tuly&theme=tokyonight" width="16.2%" alt="Commits by time of day" />
 </picture>
 
 </div>
