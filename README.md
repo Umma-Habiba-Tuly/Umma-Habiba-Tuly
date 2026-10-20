@@ -123,9 +123,6 @@
 <img height="22" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 <img height="22" src="https://img.shields.io/badge/MCP-6E40C9?style=for-the-badge&logoColor=white" alt="MCP" />
 <img height="22" src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
-<img height="22" src="https://img.shields.io/badge/Messenger%20API-0084FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Meta Messenger API" />
-<img height="22" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-<img height="22" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 <img height="22" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </div>
