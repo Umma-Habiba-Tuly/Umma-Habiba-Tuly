@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Featured project: tuly-portfolio, a personal portfolio website built with Next.js, TypeScript and Tailwind CSS with Docker deployment. Quote: As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. Gottfried Wilhelm Leibniz.">
+<title>Featured project and quote</title>
+<style>
+.tw{fill:#fff}.td{fill:#d6c8ff}.ty{fill:#ffd479}.tp{fill:#ff8fb8}.c1{fill:#9cc4f5}.c2{fill:#9fe8ff}.c3{fill:#9fd2f7}
+@media (prefers-color-scheme: light){.tw{fill:#1f2328}.td{fill:#4b3f9e}.ty{fill:#b45f06}.tp{fill:#c2255c}.c1{fill:#1d4f91}.c2{fill:#0b6a8a}.c3{fill:#0b5cad}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1f55"/><stop offset=".6" stop-color="#0f1236"/><stop offset="1" stop-color="#0a0b24"/></linearGradient>
+<linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a2a78"/><stop offset=".55" stop-color="#1c1a52"/><stop offset="1" stop-color="#0d0f2e"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8f94fb"/><stop offset=".5" stop-color="#ff8a6a"/><stop offset="1" stop-color="#ffd479"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a2a66"/><stop offset=".6" stop-color="#8a4a7e"/><stop offset="1" stop-color="#e8806f"/></linearGradient>
+<clipPath id="win"><rect x="468" y="40" width="148" height="104" rx="10"/></clipPath>
+<clipPath id="q"><rect x="660" y="2" width="338" height="256" rx="20"/></clipPath>
+</defs>
+<g font-family="'Segoe UI',Arial,sans-serif">
+
+<!-- project card -->
+<rect x="2" y="2" width="640" height="256" rx="20" fill="none" stroke="url(#bd)" stroke-width="2.5"/>
+<text x="40" y="56" font-size="13" letter-spacing="4" class="ty" font-weight="700">FEATURED PROJECT</text>
+<text x="40" y="104" font-size="40" font-weight="800" class="tw">tuly-portfolio</text>
+<text x="40" y="134" font-size="16" class="td">Personal portfolio website with a Docker</text>
+<text x="40" y="156" font-size="16" class="td">production deployment.</text>
+<g font-size="13" font-weight="600">
+<rect x="40" y="176" width="96" height="28" rx="14" fill="#3178c6" fill-opacity=".25" stroke="#3178c6"/><text x="88" y="195" text-anchor="middle" class="c1">TypeScript</text>
+<rect x="146" y="176" width="80" height="28" rx="14" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-opacity=".6"/><text x="186" y="195" text-anchor="middle" class="tw">Next.js</text>
+<rect x="236" y="176" width="116" height="28" rx="14" fill="#38bdf8" fill-opacity=".2" stroke="#38bdf8"/><text x="294" y="195" text-anchor="middle" class="c2">Tailwind CSS</text>
+<rect x="362" y="176" width="80" height="28" rx="14" fill="#2496ed" fill-opacity=".22" stroke="#2496ed"/><text x="402" y="195" text-anchor="middle" class="c3">Docker</text>
+</g>
+<rect x="40" y="224" width="402" height="8" rx="4" fill="#fff" fill-opacity=".1"/>
+<rect x="40" y="224" width="395" height="8" rx="4" fill="#3178c6"/><rect x="435" y="224" width="7" height="8" rx="3" fill="#a78bfa"/>
+<text x="458" y="232" font-size="12" class="td">TypeScript 98%</text>
+
+<!-- browser mock -->
+<rect x="468" y="40" width="148" height="104" rx="10" fill="#0b0d26" stroke="#8f94fb" stroke-opacity=".7" stroke-width="2"/>
+<g clip-path="url(#win)">
+<rect x="468" y="40" width="148" height="18" fill="#1d2150"/>
+<circle cx="480" cy="49" r="3" fill="#ff8a6a"/><circle cx="490" cy="49" r="3" fill="#ffd479"/><circle cx="500" cy="49" r="3" fill="#9fe8ff"/>
+<rect x="468" y="58" width="148" height="44" fill="url(#sky)"/>
+<g fill="#141a43"><rect x="474" y="84" width="14" height="18"/><rect x="492" y="76" width="12" height="26"/><rect x="578" y="80" width="12" height="22"/><rect x="594" y="72" width="16" height="30"/></g>
+<rect x="490" y="112" width="104" height="8" rx="4" fill="#fff"/><rect x="506" y="126" width="72" height="6" rx="3" fill="#b7a5ff"/>
+<circle cx="542" cy="84" r="11" fill="#ffe7c4" stroke="#fff" stroke-width="1.5"/>
+</g>
+
+<!-- quote card -->
+<rect x="660" y="2" width="338" height="256" rx="20" fill="none" stroke="url(#bd)" stroke-width="2.5"/>
+<g clip-path="url(#q)" fill="#fff" fill-opacity=".07" font-family="Consolas,'Courier New',monospace" font-size="22" font-weight="700">
+<text x="676" y="44">0 1 1 0 1 0 0 1</text><text x="860" y="248">1 0 1 1 0 1</text>
+</g>
+<text x="829" y="92" text-anchor="middle" font-size="72" font-weight="800" class="ty" font-family="Georgia,serif">&#8220;</text>
+<g text-anchor="middle" font-size="17.5" font-weight="600" class="tw">
+<text x="829" y="118">As numbers are reduced to the</text>
+<text x="829" y="142">simplest principles, like 0 and 1,</text>
+<text x="829" y="166">a wonderful order is apparent</text>
+<text x="829" y="190">throughout.</text>
+</g>
+<line x1="780" y1="208" x2="878" y2="208" stroke="#ff8a6a" stroke-width="2" stroke-linecap="round"/>
+<text x="829" y="234" text-anchor="middle" font-size="15" font-style="italic" class="tp">Gottfried Wilhelm Leibniz</text>
+</g>
+</svg>
