@@ -29,22 +29,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=%3C%2F%3E%20Profile%20Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
 
-🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.
-
 <img align="right" src="./about-desk.svg" alt="Illustration of a girl with a dark brown hair bun and lilac headphones, seen from behind, coding at two monitors." width="42%" />
 
-<br/>
-
-⚙️ &nbsp;𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: n8n workflows, APIs and webhooks that turn repetitive business work into hands-free systems.
-
-💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲: web apps and custom software, from polished frontends to solid backends.
-
-🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: clean, intuitive interfaces and dashboards that people enjoy using.
-
-🎓 &nbsp;𝗕𝗦𝗰 𝗶𝗻 𝗖𝗦𝗘: North Western University, CGPA 3.70 / 4.00.
-
-📍 &nbsp;Khulna, Bangladesh.
-
+🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.<br/>
+⚙️ &nbsp;𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: n8n workflows, APIs and webhooks that turn repetitive business work into hands-free systems.<br/>
+💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲: web apps and custom software, from polished frontends to solid backends.<br/>
+🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: clean, intuitive interfaces and dashboards that people enjoy using.<br/>
+🎓 &nbsp;𝗕𝗦𝗰 𝗶𝗻 𝗖𝗦𝗘: North Western University, CGPA 3.70 / 4.00.<br/>
+📍 &nbsp;Khulna, Bangladesh.<br/>
 💬 &nbsp;Open to AI, SaaS, software and automation collaborations.
 
 <br clear="right"/>
