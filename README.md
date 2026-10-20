@@ -44,6 +44,7 @@
 
 ### 🌟 Follow Me on:
 
+<a href="https://www.instagram.com/tuly.cse/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.pinterest.com/Ummehabibatuly010/"><img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
 <a href="https://tuly.atsync.tech"><img src="https://img.shields.io/badge/PORTFOLIO-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/umma-habiba-tuly-cse"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
