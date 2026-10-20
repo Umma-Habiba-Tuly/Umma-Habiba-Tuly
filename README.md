@@ -20,23 +20,23 @@
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
 
-🚀 &nbsp;𝗔𝗜 & 𝗦𝗮𝗮𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: AI agents, RAG systems and production-ready SaaS apps.
+🚀 &nbsp;𝗔𝗜 & 𝗦𝗮𝗮𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: I build AI agents, RAG knowledge systems and production-ready SaaS products.
 
 <img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
 
 <br/>
 
-⚙️ &nbsp;𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: n8n workflows, API integrations and end-to-end business automation.
+⚙️ &nbsp;𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: n8n workflows, APIs and webhooks that turn repetitive business work into hands-free systems.
 
-🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: intuitive interfaces and polished dashboards.
+💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲: web apps and custom software, from polished frontends to solid backends.
 
-💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: web apps and software systems, from frontend to backend and AI-powered features.
+🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: clean, intuitive interfaces and dashboards that people enjoy using.
 
 🎓 &nbsp;𝗕𝗦𝗰 𝗶𝗻 𝗖𝗦𝗘: North Western University, CGPA 3.70 / 4.00.
 
 📍 &nbsp;Khulna, Bangladesh.
 
-💬 &nbsp;Open to AI, SaaS, automation and design collaborations.
+💬 &nbsp;Open to AI, SaaS, software and automation collaborations.
 
 <br clear="right"/>
 
