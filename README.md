@@ -2,6 +2,7 @@
 
 <img src="./cover-rooftop2.svg" alt="Pixel-art rooftop at dusk with a city skyline, steel beams, vines and a glowing laptop. Banner art courtesy of Joshua Thadi." width="100%" />
 
+<sub><i>Banner art courtesy of Joshua Thadi, used with permission.</i></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
@@ -143,18 +144,11 @@
 
 <div align="center">
 
-## ⭐ Top Contributed Repo &nbsp;&nbsp;&nbsp;&nbsp; 💪 Random Dev Quote
+## ⭐ Featured Project
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" align="middle" alt="tuly-portfolio" />
-</picture>
+  <img src="./featured.svg" width="667" alt="tuly-portfolio: personal portfolio website built with Next.js, TypeScript and Tailwind CSS, with Docker production deployment" />
 </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quoteCategory=programming">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quoteCategory=programming">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quoteCategory=programming" width="36%" align="middle" alt="Random developer quote" />
-</picture>
 
 </div>
 
