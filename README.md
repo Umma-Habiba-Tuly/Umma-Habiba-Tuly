@@ -58,7 +58,7 @@
 
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<img src="./stack-grid2.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
+<img src="./stack-grid3.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
 
 </div>
 
