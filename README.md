@@ -121,7 +121,11 @@
 
 ## ⭐ Top Contributed Repo &nbsp;·&nbsp; 💡 Random Dev Quote
 
-<a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" alt="tuly-portfolio" /></a>
+<a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" alt="tuly-portfolio" />
+</picture>
+</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light">
