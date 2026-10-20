@@ -20,7 +20,7 @@
 
 🌟 &nbsp;**CSE Engineer** building production AI agents, RAG knowledge bases and workflow automations for real businesses.
 
-<img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="400" />
+<img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
 
 <br/>
 
