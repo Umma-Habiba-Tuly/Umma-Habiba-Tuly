@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-room4.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
+<img src="./banner-room5.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
