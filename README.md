@@ -15,10 +15,6 @@
 
 ## 🎯 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```js
 const tuly = {
   role: "CSE Engineer",
@@ -46,14 +42,11 @@ const tuly = {
 };
 ```
 
-</td>
-<td width="45%" valign="middle" align="center">
+<div align="center">
 
-<img src="./workflow.svg" alt="Diagram: customer message, n8n workflow, LLM with RAG, then reply or human handoff." width="100%" />
+<img src="./workflow.svg" alt="Diagram: customer message, n8n workflow, LLM with RAG, then reply or human handoff." width="460" />
 
-</td>
-</tr>
-</table>
+</div>
 
 > *"She is among the most intellectually gifted and diligent students I have encountered in my teaching career."*
 > — M. Raihan, Assistant Professor, North Western University (thesis supervisor)
