@@ -147,7 +147,7 @@
 ## ⭐ Featured Project
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
-  <img src="./featured.svg" width="667" alt="tuly-portfolio: personal portfolio website built with Next.js, TypeScript and Tailwind CSS, with Docker production deployment" />
+  <img src="./featured.svg" width="760" alt="tuly-portfolio: personal portfolio website built with Next.js, TypeScript and Tailwind CSS, with Docker production deployment" />
 </a>
 
 </div>
