@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-room.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
+<img src="./banner-room2.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
 
-🚀 &nbsp;𝗔𝗜 & 𝗦𝗮𝗮𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: I build AI agents, RAG knowledge systems and production-ready SaaS products.
+🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.
 
 <img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
 
