@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-<img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=%3C%2F%3E%20Profile%20Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
 
 🚀 &nbsp;𝗙𝘂𝗹𝗹 𝗔𝗜 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: from idea to production. AI agents, RAG knowledge systems and SaaS products, built end to end.
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-## ⚡ GitHub Stats
+## ⚡ 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Umma-Habiba-Tuly&show_icons=true&theme=tokyonight">
@@ -134,7 +134,7 @@
 
 <div align="center">
 
-## ⭐ Top Contributed Repo &nbsp;·&nbsp; 💡 Random Dev Quote
+## ⭐ Top Contributed Repo &nbsp;&nbsp;&nbsp;&nbsp; 💪 Random Dev Quote
 
 <a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio">
 <picture>
@@ -142,9 +142,9 @@
 </picture>
 </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="36%" align="middle" alt="Random developer quote" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quoteCategory=programming">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quoteCategory=programming">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quoteCategory=programming" width="36%" align="middle" alt="Random developer quote" />
 </picture>
 
 </div>
