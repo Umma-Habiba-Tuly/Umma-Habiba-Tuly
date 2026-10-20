@@ -58,7 +58,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bootstrap,fastapi,nextjs,docker,postgres,wordpress,figma,xd,ps,ai,vscode&perline=8" alt="Languages and tools" />
 <br/>
-<img src="./tools.svg" alt="Automation and AI tools: n8n, Claude, OpenAI, Gemini, LangChain, Zapier, Make, Airtable, WhatsApp, Messenger, HubSpot, Google Sheets, Google Drive, Gmail, Telegram, Google Maps" width="442" />
+<img src="./tools-ai.svg" alt="Automation and AI tools: n8n, Claude, OpenAI, Gemini, LangChain, Zapier, Make, Airtable, WhatsApp, Messenger, HubSpot, Google Sheets, Google Drive, Gmail, Telegram, Google Maps" width="442" />
 
 </div>
 
