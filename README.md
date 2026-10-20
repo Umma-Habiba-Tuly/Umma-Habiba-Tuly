@@ -3,16 +3,16 @@
 <img src="./banner-room.svg" alt="Original 8-bit pixel art of a cozy night room: a girl coding at a desk with a cat on the monitor and a glowing city outside the window. Umma Habiba Tuly, CSE Engineer." width="100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Workflow+Automation">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=0969DA&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Workflow+Automation">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Workflow+Automation" alt="Umma Habiba Tuly here. CSE Engineer. AI agents and RAG systems. Workflow automation." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=0969DA&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&height=64&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation" alt="Umma Habiba Tuly here. CSE Engineer. AI agents and RAG systems. Workflow automation." />
 </picture>
 
 ---
 
 ## Hello 👋 I'm Umma Habiba Tuly
 
-**AI Engineer • SaaS Builder • UI/UX Designer • Automation Specialist**
+**AI Engineer • Full-Stack Developer • SaaS Builder • UI/UX Designer • Automation Specialist**
 
 </div>
 
@@ -30,7 +30,7 @@
 
 🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: intuitive interfaces and polished dashboards.
 
-💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸: frontend, backend and AI-powered features.
+💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: web apps and software systems, from frontend to backend and AI-powered features.
 
 🎓 &nbsp;𝗕𝗦𝗰 𝗶𝗻 𝗖𝗦𝗘: North Western University, CGPA 3.70 / 4.00.
 
