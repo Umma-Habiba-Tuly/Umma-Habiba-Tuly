@@ -20,39 +20,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
 
-🚀 &nbsp;**AI & SaaS Development**: building AI agents, RAG-powered knowledge systems and production-ready SaaS applications.
+🚀 &nbsp;𝗔𝗜 & 𝗦𝗮𝗮𝗦 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: AI agents, RAG systems and production-ready SaaS apps.
 
 <img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
 
 <br/>
 
-⚙️ &nbsp;**Business Process Automation**: intelligent workflows, API integrations, AI assistants and end-to-end business automation.
+⚙️ &nbsp;𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: n8n workflows, API integrations and end-to-end business automation.
 
-🎨 &nbsp;**UI/UX & Product Design**: turning complex ideas into intuitive interfaces and polished dashboards.
+🎨 &nbsp;𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻: intuitive interfaces and polished dashboards.
 
-🧠 &nbsp;**AI Systems & RAG**: LLMs, knowledge bases, retrieval pipelines and context-aware AI applications.
+💻 &nbsp;𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸: frontend, backend and AI-powered features.
 
-🔗 &nbsp;**Workflow Engineering**: automations with n8n, APIs, webhooks and connected business tools.
-
-💻 &nbsp;**Full-Stack Development**: frontend experiences, backend systems and AI-powered functionality.
-
-🎓 &nbsp;BSc in **Computer Science and Engineering**, North Western University (CGPA 3.70 / 4.00). Thesis: exam stress detection using activity data and machine learning.
+🎓 &nbsp;𝗕𝗦𝗰 𝗶𝗻 𝗖𝗦𝗘: North Western University, CGPA 3.70 / 4.00.
 
 📍 &nbsp;Khulna, Bangladesh.
 
+💬 &nbsp;Open to AI, SaaS, automation and design collaborations.
+
 <br clear="right"/>
-
-### 🚀 What I'm Building
-
-- **Wear Inspired**: a live, multi-channel AI support system with 75%+ Tier-1 auto-resolution and under 2.1s latency.
-- **AI Customer Operations**: smarter ways to automate customer conversations, sales workflows, follow-ups and business operations.
-- **Hotel AI Receptionist**: an AI receptionist for round-the-clock guest inquiries and booking assistance.
-
-### 🎯 My Focus
-
-Building useful AI products, designing better digital experiences, and automating business operations through reliable, scalable systems.
-
-💬 &nbsp;Open to conversations about AI agents, SaaS products, workflow automation, RAG systems, product design and collaborative projects.
 
 <div align="right">
 
