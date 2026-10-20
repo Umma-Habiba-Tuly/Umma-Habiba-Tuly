@@ -58,7 +58,7 @@
 
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<img src="./stack-grid3.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
+<img src="./stack-grid4.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
 
 </div>
 
@@ -68,29 +68,17 @@
 
 ## ⚡ GitHub Stats
 
-<table>
-<tr>
-<td align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Umma-Habiba-Tuly&show_icons=true&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Umma-Habiba-Tuly&show_icons=true&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&icon_color=1A7F77&border_color=D0D7DE">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umma-Habiba-Tuly&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Umma-Habiba-Tuly&show_icons=true&theme=tokyonight" width="49%" alt="GitHub stats" />
 </picture>
-
-</td>
-<td align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Umma-Habiba-Tuly&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Umma-Habiba-Tuly&background=FFFFFF&ring=0969DA&fire=F59E0B&currStreakLabel=0969DA&currStreakNum=1F2328&sideLabels=0969DA&sideNums=1F2328&dates=57606A&stroke=D0D7DE&border=D0D7DE">
-  <img src="https://streak-stats.demolab.com?user=Umma-Habiba-Tuly&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Umma-Habiba-Tuly&theme=tokyonight" width="49%" alt="GitHub streak" />
 </picture>
-
-</td>
-</tr>
-</table>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Umma-Habiba-Tuly&layout=compact&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Umma-Habiba-Tuly&layout=compact&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&border_color=D0D7DE">
@@ -133,25 +121,12 @@
 
 ## ⭐ Top Contributed Repo &nbsp;·&nbsp; 💡 Random Dev Quote
 
-<table>
-<tr>
-<td align="center" valign="middle">
-
-<a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" alt="tuly-portfolio" /></a>
-<a href="https://github.com/Umma-Habiba-Tuly/Panda-Commerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=Panda-Commerce&theme=tokyonight" alt="Panda-Commerce" /></a>
-
-</td>
-<td align="center" valign="middle">
-
+<a href="https://github.com/Umma-Habiba-Tuly/tuly-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Umma-Habiba-Tuly&repo=tuly-portfolio&theme=tokyonight" width="56%" alt="tuly-portfolio" /></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Random developer quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" width="36%" alt="Random developer quote" />
 </picture>
-
-</td>
-</tr>
-</table>
 
 </div>
 
