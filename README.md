@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./cover-rooftop.jpg" alt="Pixel-art rooftop at dusk with a city skyline, steel beams, vines and a glowing laptop. Banner art courtesy of Joshua Thadi." width="75%" />
+<img src="./cover-rooftop.jpg" alt="Pixel-art rooftop at dusk with a city skyline, steel beams, vines and a glowing laptop. Banner art courtesy of Joshua Thadi." width="90" />
 
 <sub><i>Banner art courtesy of Joshua Thadi, used with permission.</i></sub>
 
