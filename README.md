@@ -12,33 +12,47 @@
 
 ## Hello 👋 I'm Umma Habiba Tuly
 
+**AI Engineer • SaaS Builder • UI/UX Designer • Automation Specialist**
+
 </div>
 
 ## 💫 About Me
 
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Profile%20Views&color=5865F2&style=flat-square" alt="Profile views" />
 
-🌟 &nbsp;**CSE Engineer** building production AI agents, RAG knowledge bases and workflow automations for real businesses.
+🚀 &nbsp;**AI & SaaS Development**: building AI agents, RAG-powered knowledge systems and production-ready SaaS applications.
 
 <img align="right" src="./setup.svg" alt="Pixel-art coder setup: monitor with code, headphones on a stand, a steaming mug and a plant." width="40%" />
 
 <br/>
 
-🚀 &nbsp;Shipped **Wear Inspired**, a live multi-channel AI support system with **75%+ Tier-1 auto-resolution** and **under 2.1s latency**.
+⚙️ &nbsp;**Business Process Automation**: intelligent workflows, API integrations, AI assistants and end-to-end business automation.
 
-🏨 &nbsp;Currently building a **Hotel AI Receptionist** for round-the-clock guest inquiries and bookings.
+🎨 &nbsp;**UI/UX & Product Design**: turning complex ideas into intuitive interfaces and polished dashboards.
 
-🎨 &nbsp;Background in **UI/UX design and full-stack development**.
+🧠 &nbsp;**AI Systems & RAG**: LLMs, knowledge bases, retrieval pipelines and context-aware AI applications.
 
-🎓 &nbsp;BSc in **Computer Science and Engineering**, North Western University (CGPA 3.70 / 4.00).
+🔗 &nbsp;**Workflow Engineering**: automations with n8n, APIs, webhooks and connected business tools.
 
-🧪 &nbsp;Thesis: exam stress detection using activity data and machine learning.
+💻 &nbsp;**Full-Stack Development**: frontend experiences, backend systems and AI-powered functionality.
 
-💬 &nbsp;Ask me about **AI agents, RAG, n8n workflows, FastAPI and LangChain**.
+🎓 &nbsp;BSc in **Computer Science and Engineering**, North Western University (CGPA 3.70 / 4.00). Thesis: exam stress detection using activity data and machine learning.
 
 📍 &nbsp;Khulna, Bangladesh.
 
 <br clear="right"/>
+
+### 🚀 What I'm Building
+
+- **Wear Inspired**: a live, multi-channel AI support system with 75%+ Tier-1 auto-resolution and under 2.1s latency.
+- **AI Customer Operations**: smarter ways to automate customer conversations, sales workflows, follow-ups and business operations.
+- **Hotel AI Receptionist**: an AI receptionist for round-the-clock guest inquiries and booking assistance.
+
+### 🎯 My Focus
+
+Building useful AI products, designing better digital experiences, and automating business operations through reliable, scalable systems.
+
+💬 &nbsp;Open to conversations about AI agents, SaaS products, workflow automation, RAG systems, product design and collaborative projects.
 
 <div align="right">
 
@@ -58,7 +72,7 @@
 
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
-<img src="./stack-grid4.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator" width="667" />
+<img src="./stack-grid5.svg" alt="Languages and tools: Git, HTML, HubSpot, GitHub, n8n, Adobe XD, Make, Bootstrap, Notion, Slack, Discord, TypeScript, CSS, Docker, Next.js, Airtable, Photoshop, VS Code, WordPress, MySQL, PostgreSQL, C, C++, PowerShell, Python, FastAPI, Figma, LangChain, Supabase, Node.js, Bash, JavaScript, Linux, Java, Illustrator, React" width="667" />
 
 </div>
 
