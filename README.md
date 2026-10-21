@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=44&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation" alt="Umma Habiba Tuly here. CSE Engineer. AI agents and RAG systems. Workflow automation." />
 </picture>
 
-<p><img src="./hs-hello.svg" alt="Hello, I'm Umma Habiba Tuly" /></p>
+<p><img src="./hs-hello.svg" alt="Hello, I'm Tuly" /></p>
 
 **AI Engineer • Full-Stack Developer • SaaS Builder • UI/UX Designer • Automation Specialist**
 
