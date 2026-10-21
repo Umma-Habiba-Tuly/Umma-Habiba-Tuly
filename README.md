@@ -25,7 +25,8 @@
 
 </div>
 
-<img align="middle" src="./hs-about.svg" alt="About Me" /> &nbsp;&nbsp; <img align="middle" src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=%3C%2F%3E%20Profile%20Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
+<img align="right" hspace="0" vspace="14" src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
+<img src="./hs-about.svg" alt="About Me" />
 
 <img align="right" src="./about-desk.svg" alt="Illustration of a girl with a dark brown hair bun and lilac headphones, seen from behind, coding at two monitors." width="42%" />
 
