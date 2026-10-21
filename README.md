@@ -2,6 +2,7 @@
 
 <img src="./cover-rooftop2.svg" alt="Pixel-art rooftop at dusk with a city skyline, steel beams, vines and a glowing laptop. Banner art courtesy of Joshua Thadi." width="100%" />
 
+<sub><i>Banner art courtesy of Joshua Thadi, used with permission.</i></sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=44&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation">
@@ -9,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=32&duration=3200&pause=1200&color=B7A5FF&center=true&vCenter=true&width=760&height=44&lines=Umma+Habiba+Tuly+here+%F0%9F%94%A5+!;CSE+Engineer;AI+Agents+%26+RAG+Systems;Full-Stack+Developer;Workflow+Automation" alt="Umma Habiba Tuly here. CSE Engineer. AI agents and RAG systems. Workflow automation." />
 </picture>
 
-<p><img src="./hs-hello.svg" alt="Hello, I'm Tuly" /></p>
+<p><img src="./hs-hello.svg" alt="Hello, I'm Umma Habiba Tuly" /></p>
 
 **AI Engineer • Full-Stack Developer • SaaS Builder • UI/UX Designer • Automation Specialist**
 
@@ -24,9 +25,9 @@
 
 </div>
 
-<p><img src="./hs-about.svg" alt="About Me" /></p>
-
 <img src="https://komarev.com/ghpvc/?username=Umma-Habiba-Tuly&label=%3C%2F%3E%20Profile%20Views&color=8F94FB&labelColor=3A32A8&style=flat-square" alt="Profile views" />
+
+<p><img src="./hs-about.svg" alt="About Me" /></p>
 
 <img align="right" src="./about-desk.svg" alt="Illustration of a girl with a dark brown hair bun and lilac headphones, seen from behind, coding at two monitors." width="42%" />
 
